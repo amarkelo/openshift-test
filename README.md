@@ -1,4 +1,0 @@
-openshift-test
-==============
-
-openshift test
